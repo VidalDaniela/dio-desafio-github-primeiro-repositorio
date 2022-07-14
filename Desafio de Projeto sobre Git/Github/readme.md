@@ -1,0 +1,1 @@
+Este projeto foi realizado como parte de um bootcamp do Santander Code Girls, mostrando um resumo do Git e GitHub.
